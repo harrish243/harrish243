@@ -39,25 +39,6 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00C9FF,100:92FE9D"/>
 </p>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Analytics
-
-<br>
-
-<div align="center">
-  <a href="https://github.com/harrish243">
-    <img src="https://github-readme-stats.vercel.app/api?username=harrish243&show_icons=true&theme=dracula&hide_border=true&bg_color=1a1b27&title_color=bd93f9&icon_color=79dafa&text_color=f8f8f2&border_radius=15&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/harrish243">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harrish243&layout=compact&theme=dracula&hide_border=true&bg_color=1a1b27&title_color=bd93f9&text_color=f8f8f2&border_radius=15&langs_count=8&card_width=320" height="180" alt="Top Languages" />
-  </a>
-</div>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br>
-
 <h3>🔥 My Coding Streak</h3>
 
 <p align="center">
